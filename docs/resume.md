@@ -33,4 +33,12 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 
 #Softwarekennis
 
+| Programma | Kennis |
+|------------|--------|
+| Text Editors (phpStorm, Espresso, Dreamweaver, Sublime Text) | Goede kennis |
+| Microsoft Office 2010 (Word, Excel, PowerPoint, Access) | Goede kennis |
+| Adobe Creative Cloud Software (InDesign, Illustrator, Photoshop, Premiere Pro, After Effects)	| Zeer goede kennis |
+| Autodesk Maya | Goede kennis |
+| Arduino | Beperkte kennis |
+
 #Contactinformatie

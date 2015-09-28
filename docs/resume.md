@@ -35,13 +35,13 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 
 | Programma | Kennis |
 |------------|--------|
-| PhpStorm | Goede kennis |
-| Espresso | Goede kennis |
-| Dreamweaver | Goede kennis |
-| Sublime Text 2 | Goede kennis |
-| Adobe Creative Cloud Software	| Zeer goede kennis |
-| Autodesk Maya | Goede kennis |
-| Arduino | Beperkte kennis |
+|*PhpStorm* | Goede kennis |
+|*Espresso* | Goede kennis |
+|*Dreamweaver* | Goede kennis |
+|*Sublime Text 2* | Goede kennis |
+|*Adobe Creative Cloud Software*	| Zeer goede kennis |
+|*Autodesk Maya* | Goede kennis |
+|*Arduino* | Beperkte kennis |
 ************************************************************************************************************************
 #Contactinformatie
 

@@ -43,8 +43,6 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 ************************************************************************************************************************
 #Contactinformatie
 
-|   | Gegevens |
-|---|----------|
 | **Naam** | **Nick Vanden Bossche** |
 | **Geboortedatum** | **22 December 1994** |
 | **Adres** | **Dronkenborrestrat 23, Wambeek 1741** |

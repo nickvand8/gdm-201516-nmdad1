@@ -30,13 +30,13 @@
 ************************************************************************************************************************
 #Kennis webtechnologieën
 
-    | Taal | Kennis |
-    |------|--------|
-    |*Html5*|Zeer goed|
-    |*Css*|Zeer goed|
-    |*Javascript*|Goed|
-    |*jQuery*|Goed|
-    |*MySQL*|Beperkt|
+| Taal | Kennis |
+|------|--------|
+|*Html5*|Zeer goed|
+|*Css*|Zeer goed|
+|*Javascript*|Goed|
+|*jQuery*|Goed|
+|*MySQL*|Beperkt|
 ************************************************************************************************************************
 #Softwarekennis
 

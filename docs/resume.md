@@ -19,7 +19,7 @@
 
 [Eindopdracht Webdesign I](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/nickvand8/webdesign1/examenopdracht/Index.html)
 
-    [Eindopdracht Webdesign II - Imaginaryfest](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/nickvand8/webdesign2/imaginaryfest/site/index.html)
+[Eindopdracht Webdesign II - Imaginaryfest](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/nickvand8/webdesign2/imaginaryfest/site/index.html)
 ************************************************************************************************************************
 #Werkervaring
 
@@ -30,13 +30,13 @@
 ************************************************************************************************************************
 #Kennis webtechnologieën
 
-| Taal | Kennis |
-|------|--------|
-|*Html5*|Zeer goed|
-|*Css*|Zeer goed|
-|*Javascript*|Goed|
-|*jQuery*|Goed|
-|*MySQL*|Beperkt|
+    | Taal | Kennis |
+    |------|--------|
+    |*Html5*|Zeer goed|
+    |*Css*|Zeer goed|
+    |*Javascript*|Goed|
+    |*jQuery*|Goed|
+    |*MySQL*|Beperkt|
 ************************************************************************************************************************
 #Softwarekennis
 

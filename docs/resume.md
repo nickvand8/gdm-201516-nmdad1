@@ -16,11 +16,11 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 [Eindopdracht Webdesign I](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/nickvand8/webdesign1/examenopdracht/Index.html)
 
 [Eindopdracht Webdesign II - Imaginaryfest](http://www.arteveldehogeschool.be/campusGDM/studenten_201415/nickvand8/webdesign2/imaginaryfest/site/index.html)
-
+************************************************************************************************************************
 #Werkervaring
 
 /
-
+************************************************************************************************************************
 #Kennis webtechnologieën
 
 | Taal | Kennis |
@@ -30,7 +30,7 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 |Javascript|Goed|
 |jQuery|Goed|
 |MySQL|Beperkt|
-
+************************************************************************************************************************
 #Softwarekennis
 
 | Programma | Kennis |
@@ -40,5 +40,5 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 | Adobe Creative Cloud Software (InDesign, Illustrator, Photoshop, Premiere Pro, After Effects)	| Zeer goede kennis |
 | Autodesk Maya | Goede kennis |
 | Arduino | Beperkte kennis |
-
+************************************************************************************************************************
 #Contactinformatie

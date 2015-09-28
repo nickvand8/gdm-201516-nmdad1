@@ -25,11 +25,11 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 
 | Taal | Kennis |
 |------|--------|
-|###Html5|Zeer goed|
-|###Css|Zeer goed|
-|###Javascript|Goed|
-|###jQuery|Goed|
-|###MySQL|Beperkt|
+|Html5|Zeer goed|
+|Css|Zeer goed|
+|Javascript|Goed|
+|jQuery|Goed|
+|MySQL|Beperkt|
 
 #Softwarekennis
 

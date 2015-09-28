@@ -46,6 +46,8 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 #Contactinformatie
 
 **Nick Vanden Bossche**
+
 **Dronkenborrestraat 21**
+
 **Nickvand8@student.arteveldehs.be**
 

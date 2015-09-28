@@ -35,18 +35,17 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 
 | Programma | Kennis |
 |------------|--------|
-| Text Editors (phpStorm, Espresso, Dreamweaver, Sublime Text) | Goede kennis |
-| Microsoft Office 2010 (Word, Excel, PowerPoint, Access) | Goede kennis |
-| Adobe Creative Cloud Software (InDesign, Illustrator, Photoshop, Premiere Pro, After Effects)	| Zeer goede kennis |
+| PhpStorm | Goede kennis |
+| Espresso | Goede kennis |
+| Dreamweaver | Goede kennis |
+| Sublime Text 2 | Goede kennis |
+| Adobe Creative Cloud Software	| Zeer goede kennis |
 | Autodesk Maya | Goede kennis |
 | Arduino | Beperkte kennis |
 ************************************************************************************************************************
 #Contactinformatie
 
-|   | Gegevens |
-|---|----------|
-| **Naam** | **Nick Vanden Bossche** |
-| **Geboortedatum** | **22 December 1994** |
-| **Adres** | **Dronkenborrestrat 23, Wambeek 1741** |
-| **E-mail** | **nickvand8@student.arteveldehs.be** |
+**Nick Vanden Bossche**
+**Dronkenborrestraat 21**
+**Nickvand8@student.arteveldehs.be**
 

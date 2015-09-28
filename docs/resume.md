@@ -1,4 +1,4 @@
-# <span style="color:red">Biografie</span>
+<span style="color:red">Biografie</span>
 
 Hallo, ik ben **Nick Vanden Bossche**. 
 Geboren op 22 december 1994 te Jette

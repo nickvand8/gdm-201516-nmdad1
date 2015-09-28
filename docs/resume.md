@@ -19,7 +19,9 @@ Gezien ik graag later als Web Designer aan de slag zou willen gaan heb ik gekoze
 ************************************************************************************************************************
 #Werkervaring
 
-/
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
 ************************************************************************************************************************
 #Kennis webtechnologieën
 

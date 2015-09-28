@@ -1,3 +1,5 @@
+![alt text](http://i.imgur.com/5sv19V3.png "Logo N")
+
 #Biografie
 
 Hallo, ik ben **Nick Vanden Bossche**. 

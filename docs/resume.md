@@ -46,7 +46,7 @@
 |*Espresso* | Goede kennis |
 |*Dreamweaver* | Goede kennis |
 |*Sublime Text 2* | Goede kennis |
-|*Adobe Creative Cloud Software*	| Zeer goede kennis |
+|*Adobe Creative Cloud Software*| Zeer goede kennis |
 |*Autodesk Maya* | Goede kennis |
 |*Arduino* | Beperkte kennis |
 ************************************************************************************************************************

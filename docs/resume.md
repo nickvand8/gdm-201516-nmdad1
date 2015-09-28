@@ -1,4 +1,4 @@
-![alt text](http://i.imgur.com/5sv19V3.png "Logo N")
+![alt text](http://i.imgur.com/QfBdzFN.png "Logo N")
 
 #Biografie
 
